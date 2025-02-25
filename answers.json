@@ -1,0 +1,14 @@
+{
+    "answers": {
+      "request1": {
+        "result": "true",
+        "relevance": [
+          {"docid": 0, "rank": 0.9},
+          {"docid": 1, "rank": 0.7}
+        ]
+      },
+      "request2": {
+        "result": "false"
+      }
+    }
+  }
